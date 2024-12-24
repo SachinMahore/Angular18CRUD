@@ -1,0 +1,9 @@
+.selected {
+    background-color: #f0f8;  /* Light blue color for selected row */
+    cursor: pointer;  /* Change cursor to indicate clickable row */
+  }
+  
+  .selected td {
+    font-weight: bold;  /* Optionally, make text bold in selected row */
+  }
+  
